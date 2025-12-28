@@ -1,0 +1,7 @@
+# Range in blocks. -1 means unlimited range.
+announcement-range:
+  join: 256
+  quit: 256
+  death: 256
+  advancement: 256
+  chat: -1
