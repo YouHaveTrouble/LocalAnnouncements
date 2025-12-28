@@ -5,3 +5,8 @@ announcement-range:
   death: 256
   advancement: 256
   chat: -1
+
+player-death-sound:
+  enabled: false
+  sound: "entity.wither.spawn"
+  volume: 1.0
