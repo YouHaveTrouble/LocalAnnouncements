@@ -1,5 +1,5 @@
-name: LocalAnnouncements
-version: '1.0-SNAPSHOT'
+name: ${project.name}
+version: ${project.version}
 main: me.youhavetrouble.localannouncements.LocalAnnouncements
 api-version: '1.21'
 authors: [ YouHaveTrouble ]
